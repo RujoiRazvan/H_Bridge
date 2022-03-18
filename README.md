@@ -1,7 +1,8 @@
 # H Bridge
 
 Proteus:
-![Proteus_Schematic](https://user-images.githubusercontent.com/57172561/158161716-f4e311a5-d990-480b-86d1-04ffa6c18bdb.png)
+![Proteus_Schematic](https://user-images.githubusercontent.com/57172561/158997666-af25cf1e-c0ca-4371-8fb1-10ca8c191ecf.png)
+
 
 
 KiCad:
